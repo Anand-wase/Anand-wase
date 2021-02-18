@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'PUBG'
+project = 'PUBG@123'
 copyright = '2021, Anand'
 author = 'Anand'
 
